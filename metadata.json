@@ -1,0 +1,5 @@
+{
+  "name": "DocuGenie RAG",
+  "description": "A sophisticated Retrieval-Augmented Generation (RAG) application that allows users to upload PDF and Word documents, extract text, and ask questions grounded in the document content using the Gemini API.",
+  "requestFramePermissions": []
+}
